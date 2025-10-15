@@ -1,0 +1,7 @@
+Flask==2.2.5
+flask-cors==3.0.10
+flask-socketio==5.3.2
+pymongo==4.4.0
+eventlet==0.33.3
+opencv-python==4.8.1.78
+bson==0.5.10
